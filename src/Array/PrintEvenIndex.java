@@ -11,7 +11,7 @@ public class PrintEvenIndex
 
             }
         }
-        System.out.println("**********odd value************");
+        System.out.println("**********odd index************");
         for (int i = 0; i < 5; i++) {
             if (i%2!=0) {
                 System.out.println(arr[i]);
