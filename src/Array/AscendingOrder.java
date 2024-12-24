@@ -1,5 +1,5 @@
 package Array;
-//WAP to to check if an array is sorted in ascending order
+//WAP to check if an array is sorted in ascending order
 public class AscendingOrder
 {
     public static void main(String[] args) {

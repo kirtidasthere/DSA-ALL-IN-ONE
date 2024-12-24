@@ -5,7 +5,6 @@ public class ReaArrangeGFG
     public static void main(String[] args) {
         long arr[] = {1, 2, 3, 4, 5, 6};
 
-
         int n= arr.length;
         long[] result=new long[n];
 
